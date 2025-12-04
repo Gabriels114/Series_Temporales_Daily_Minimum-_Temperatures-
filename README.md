@@ -1,4 +1,4 @@
-# Pronóstico de Temperatura Diaria en Melbourne (Series de Tiempo)
+# Proyecto Final: Pronóstico de Temperatura Diaria en Melbourne (Series de Tiempo)
 
 Repositorio del proyecto de **Modelos de Pronóstico / Series de Tiempo** de la  
 **Universidad Autónoma de Querétaro – Facultad de Informática**  
