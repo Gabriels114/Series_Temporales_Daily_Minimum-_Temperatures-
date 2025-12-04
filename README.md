@@ -3,7 +3,10 @@
 Repositorio del proyecto de **Modelos de Pronóstico / Series de Tiempo** de la  
 **Universidad Autónoma de Querétaro – Facultad de Informática**  
 **Ingeniería en Ciencia y Analítica de Datos (CAD22)**  
-
+Por: 
+- Jesus Gabriel Gudiño Lara
+- Ana Rosa Ramírez López
+- 
 > Pronóstico de la temperatura mínima diaria en Melbourne (Australia) usando modelos estadísticos, Machine Learning y Deep Learning.
 
 ---
@@ -40,7 +43,7 @@ La estructura sugerida del repositorio es la siguiente (puedes ajustarla a tu or
 │   ├── ProyectoFinal_SeriesTemporales.pdf   # Reporte en PDF (entregable)
 │   └── Notebook-ProyectoFinal.pdf          # Versión exportada del notebook
 └── README.md
-
+```
 ## 3. Requisitos e instalación
 
 3.1. Requisitos
